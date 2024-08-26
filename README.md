@@ -25,13 +25,5 @@ Generates lyrics of a random song (if no artist is selected).
 ## Contact
 Feel free to drop suggestions or report any bugs you might face in the [issues](https://github.com/sheldor1510/lyricsum/issues) section. 
 
-## Links
-[Website](https://lyricsum.com)  ·  [Design](https://www.behance.net/gallery/137677097/Lyricsum-Lorem-Ipsum-but-its-song-lyrics)  ·  [Source](https://github.com/sheldor1510/lyricsum)
 
-## Authors
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/sheldor1510"><img src="https://github.com/sheldor1510.png" width="100px;"><br /><sub><a href="https://anshulsaha.me" target="_blank"><b>Anshul Saha</b></a></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/ishaanndas"><img src="https://github.com/ishaanndas.png" width="100px;"><br /><sub><a href="https://ishaandas.com/" target="_blank"><b>Ishaan Das</b></a></sub></a><br/></td>
-  </tr>
-</table>
+
