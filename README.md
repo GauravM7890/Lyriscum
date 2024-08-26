@@ -2,7 +2,6 @@
 ## What is Lyricsum?
 Lyricsum is a new way to generate placeholder text. It's a website that takes the lyrics of your favorite artists' songs and converts them into placeholder text which can be further customized using the format options available.
 
-Check it out at <a href="https://lyricsum.com" target="_blank">lyricsum.com</a>.
 
 ## Why?
 Being bored of looking at the same lorem ipsum all the time, we wanted to add some variety. So, we decided on song lyrics as the alternative.
@@ -23,7 +22,7 @@ Generates lyrics of a random song (if no artist is selected).
 <img src="https://user-images.githubusercontent.com/44090243/154624679-87426d6c-a9ee-4683-aa6b-d790018a16ef.gif" width="80%" height="80%"></img>
 
 ## Contact
-Feel free to drop suggestions or report any bugs you might face in the [issues](https://github.com/sheldor1510/lyricsum/issues) section. 
+Feel free to drop suggestions or report any bugs you might face in the [issues](https://github.com/GauravM7890/lyricsum/issues) section. 
 
 
 
